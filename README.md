@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalyanramchimmilli
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning c & java
-- 💞️ I’m looking to collaborate on a project or summer school
+- 👀 I’m interested in problem solving,web designing
+- 🌱 I’m currently learning Web devolepment
+- 💞️ Looking for An Intenship
 - 📫 How to reach me :kalyanram36117@gmail.com
 
 <!---
