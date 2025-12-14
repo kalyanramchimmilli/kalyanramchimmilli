@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyanramchimmilli
 - 🔄 Build, Break, Learn
-- 📧 How to reach me : kalyanram36117@gmail.com
+- 📧 Reach me on : kalyanram36117@gmail.com
 
 <!---
 kalyanramchimmilli/kalyanramchimmilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
